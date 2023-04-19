@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Transaction Viewer app is a SwiftUI-based iOS application that allows the user to view a list of transactions grouped by booking date. The user can filter the transactions based on their category and view transaction details. The app uses the MVVM design pattern and is built using SwiftUI and Combine frameworks.
+The WorldOfPAYBACK app is a SwiftUI-based iOS application that allows the user to view a list of transactions grouped by booking date. The user can filter the transactions based on their category and view transaction details. The app uses the MVVM design pattern and is built using SwiftUI and Combine frameworks.
 
 ## Features
 
