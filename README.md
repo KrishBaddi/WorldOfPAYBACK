@@ -8,7 +8,7 @@ The WorldOfPAYBACK app is a SwiftUI-based iOS application that allows the user t
 
 ## Features
 
-* View transactions grouped by booking date.
+* View transactions sorted by `bookingDate`
 * Filter transactions by category.
 * View transaction details by tapping on a transaction.
 * If there is no internet connection, the app will show an error message.
@@ -30,7 +30,7 @@ The WorldOfPAYBACK app is a SwiftUI-based iOS application that allows the user t
 ## Usage
 
 * Upon launching the app, the user will land to home page where they see welcome message with button to go to the transaction page
-* Once the user taps on the button,, the user will see a list of transactions grouped by booking date.
+* Once the user taps on the button, the user will see a list of transactions sorted by `bookingDate`
 * The user can filter the transactions by selecting a category from the segmented control at the bottom of the screen.
 * To view transaction details, the user can tap on a transaction to present a new view that shows the transaction details.
 * If there is no internet connection, the app will show an error message.
